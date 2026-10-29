@@ -5,12 +5,12 @@
   "name": "Create Fly: Villager Customers",
   "description": "Villagers walk to your Create shops during their working hours and trade their own offers against them, paying into the stock ticker and earning it experience nuggets.",
   "authors": [
-    "Cube Algos"
+    "Kevin Scheeren"
   ],
   "contact": {
     "homepage": "https://modrinth.com/mod/villager-customers",
-    "sources": "https://github.com/cubealgos-mods/create_villager_customers",
-    "issues": "https://github.com/cubealgos-mods/create_villager_customers/issues"
+    "sources": "https://github.com/kevinscheeren-mods/create_villager_customers",
+    "issues": "https://github.com/kevinscheeren-mods/create_villager_customers/issues"
   },
   "license": "MIT",
   "environment": "*",

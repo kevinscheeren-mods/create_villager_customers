@@ -9,9 +9,9 @@ trade moving without being chased down one at a time.
 Requires Minecraft 26.2, Fabric Loader, Fabric API and Create Fly. MIT (LICENSE); credits in NOTICE.
 Releases carry the jar and its SHA-256 in the notes; see CHANGELOG.md for what each version holds.
 
-Support and security reports go through the issue tracker only (SUPPORT.md): https://github.com/cubealgos-mods/create_villager_customers/issues.
+Support and security reports go through the issue tracker only (SUPPORT.md): https://github.com/kevinscheeren-mods/create_villager_customers/issues.
 
-Source: https://github.com/cubealgos-mods/create_villager_customers.
+Source: https://github.com/kevinscheeren-mods/create_villager_customers.
 Releases: https://modrinth.com/mod/villager-customers.
 
 Development: `just --list`. The specification is `docs/spec/`.
