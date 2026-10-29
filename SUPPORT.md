@@ -1,6 +1,6 @@
 # Support
 
-Create Fly: Villager Customers is supported through its issue tracker only, at https://github.com/cubealgos-mods/create_villager_customers/issues. There is no service level:
+Create Fly: Villager Customers is supported through its issue tracker only, at https://github.com/kevinscheeren-mods/create_villager_customers/issues. There is no service level:
 issues are read and answered as time allows, and there is no guarantee of a fix or a date.
 
 When reporting, include the Minecraft version, the Fabric Loader, Fabric API and Create Fly

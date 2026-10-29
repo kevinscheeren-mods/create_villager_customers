@@ -85,7 +85,7 @@ verify at the first ticket" where it appears.
 |---|---|---|
 | `default-license-apache-2-cla` | MIT, no CLA | `decisions/DEC-003-licence.md` |
 | `naming-theme` | Descriptive English under the Create add-on convention | `decisions/DEC-002-name.md` |
-| "no remote unless justified later" | Public on GitHub under `cubealgos-mods` with the issue tracker there (began on Forgejo under `cubealgos`; GitHub is the home since 2026-10-03), as both siblings ended up | `decisions/DEC-003-licence.md` |
+| "no remote unless justified later" | Public on GitHub under `kevinscheeren-mods` with the issue tracker there (began on Forgejo under `cubealgos`; GitHub is the home since 2026-10-03), as both siblings ended up | `decisions/DEC-003-licence.md` |
 
 ## Decisions
 

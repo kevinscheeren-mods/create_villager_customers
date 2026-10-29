@@ -16,7 +16,7 @@ A distributed product carries the same obligations as its siblings, landing in d
 | Impressumspflicht | Attaches to a public web presence; there is none beyond the platform pages. Revisit if a site exists. |
 | Licence and notices | MIT (`decisions/DEC-003-licence.md`); `NOTICE` credits Create Fly (CC0), Create (MIT), Fabric (Apache-2.0). No Minecraft or Create Fly textures are copied. |
 | Supply chain and release integrity | Builds from a tagged commit with pinned dependencies; the release checksum is in the release notes; no signing at 1.0. |
-| Vulnerability disclosure | The public issue tracker only, on GitHub (`https://github.com/cubealgos-mods/create_villager_customers/issues`); no private channel, no e-mail address published. GitHub is the home of the code. |
+| Vulnerability disclosure | The public issue tracker only, on GitHub (`https://github.com/kevinscheeren-mods/create_villager_customers/issues`); no private channel, no e-mail address published. GitHub is the home of the code. |
 | Server trust boundary | Every action a villager takes runs entirely server-side; there is no menu, no packet, and no client input anywhere in the trade path — a stricter boundary than a mod with a screen, since there is nothing for a client to influence at all. |
 | AI Act, GoBD, sector regulation | Not applicable: no AI component, no financial records, no regulated sector. |
 
